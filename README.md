@@ -39,10 +39,6 @@ The application can be deployed to a live system using a variety of methods, suc
 - PostgreSQL
 - Bootstrap
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/YOUR_USERNAME/gocamp/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Versioning
 
 We use [git] for versioning. 
